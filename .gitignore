@@ -1,1 +1,2 @@
 /node_modules
+SERVER_PORT = 3000
