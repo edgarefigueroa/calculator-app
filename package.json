@@ -10,7 +10,7 @@
   },
   "name": "calculator-app",
   "version": "1.0.0",
-  "main": "script.js",
+  "main": "server.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
