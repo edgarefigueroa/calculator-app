@@ -4,5 +4,24 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarefigueroa/calculator-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarefigueroa/calculator-app/issues"
+  },
+  "homepage": "https://github.com/edgarefigueroa/calculator-app#readme",
+  "description": ""
 }
